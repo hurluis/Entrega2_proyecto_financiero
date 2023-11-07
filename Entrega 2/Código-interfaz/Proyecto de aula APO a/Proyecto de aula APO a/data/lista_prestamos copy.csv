@@ -1,0 +1,15 @@
+David Rivera;18;5000000;0;10;independiente;1500000;0;
+Santiago Gonzales;6000000;11
+Luis Giraldo;7000000;13
+Pepito Perez;100000000;15
+
+elf.nombre: str = nombre
+        self.profesion: str = profesion
+        self.edad: int = edad
+        self.cantidad: int = 0
+        self.saldo_pagado: int = 0
+        self.cuotas: int = 0
+        self.cuotainicial: int = 0
+        self.mora: int = 0
+        self.fecha_ultimacuota= fecha
+        self.atributos: dict = {}
